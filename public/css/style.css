@@ -1,0 +1,24 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+
+#videos{
+    display: flex;
+    width: 100%;
+    align-items: center;
+    justify-content: center;
+
+}
+
+video{
+    background-color: black;
+    width: 20rem;
+    height: 20rem;
+    margin: 1rem;
+    object-fit: cover;
+}
+
+button{
+    color: red;
+}
